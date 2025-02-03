@@ -1,4 +1,5 @@
 Neural Assistant for Mnemonics
+
 This project implements a neural assistant that provides advice on mnemonics. The assistant can answer any questions related to mnemonics and offer tips on how to remember specific information. The core functionalities are powered by various libraries and models, including Hugging Face's Transformers, Langchain, and Cohere.
 
 Functionality:
